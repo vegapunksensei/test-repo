@@ -8,4 +8,5 @@ int main()
 	cout << add(2, 4) << endl;
 	cout << sub(6, 2) << endl;
 	cout << mul(6, 2) << endl;
+	return 0;
 }
